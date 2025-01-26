@@ -14,5 +14,5 @@ This repository includes the code and dataset necessary for reproducing results 
 # Methodology
 The methodology involves feature extraction from a peptide sequence dataset, addressing class imbalance with ADASYN and SMOTE techniques. A 10-fold cross-validation process optimizes model hyperparameters, while SHAP-based feature selection identifies key features to enhance prediction accuracy for IL-13-inducing peptides.
 
-<img src="https://github.com/izaz-swe/StackIL13/blob/main/final_il13_methodology.png" width="500px" height="400px"/>
+<img src="https://github.com/izaz-swe/StackIL13/blob/main/final_il13_methodology.png" width="500px" height="300px"/>
 
