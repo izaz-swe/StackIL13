@@ -2,9 +2,9 @@
 
 Interleukin-13 (IL-13) plays a vital role in immune regulation, particularly in allergic and inflammatory disorders like asthma and atopic dermatitis. This repository introduces StackIL13, a stacking ensemble model developed for accurate prediction of IL-13-inducing peptides.
 
-Key features of this research include:
+# Key features of this research include:
 
-Dataset: Positive and negative datasets derived from IL13Pred. Website Link: https://webs.iiitd.edu.in/raghava/il13pred/dataset.php </br>
+<span style="font-weight: bold">Dataset: </span>Positive and negative datasets derived from IL13Pred. Website Link: https://webs.iiitd.edu.in/raghava/il13pred/dataset.php </br>
 Feature Extraction: Leveraging the ILearnPlus tool for diverse peptide feature sets (e.g., CKSAAP, DPC, CTDC, and CTraid). </br>
 Data Balancing: Adasyn algorithm used to address dataset imbalance. </br>
 Feature Selection: Recursive Shapley Value applied to optimize model inputs. </br>
